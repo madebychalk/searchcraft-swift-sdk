@@ -1,0 +1,44 @@
+# Log files
+*.log
+
+# Unit test reports
+TEST*.xml
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+*.launch
+.settings/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# CocoaPods
+Pods/
+
+# Xcode
+#
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+contents.xcworkspacedata
+
+Configs/
+Config.debug.xcconfig
+Config.develop.xcconfig
+Config.production.xcconfig
